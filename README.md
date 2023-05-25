@@ -11,7 +11,7 @@ You may need to download the diabetic_data.csv file (included in this repo) for 
 
 # Przewidywanie_ponownych_przyjęć_do_szpitala
 
-Niniejszy projekt ten dotyczy problemu przewidywania ponownego przyjęcia do placówki opieki zdrowotnej (rehospitalizacji). Zbiór danych wykorzystany w projekcie zawiera szereg kolumn zawierających różne informacje o stanie pacjentów i dokumentacji medycznej. W rubryce „readmitted” znajduje się informacja, czy pacjent został ponownie przyjęty do szpitala w okresie krótszym niż 30 dni, po więcej niż 30 dniach lub nie został ponownie przyjęty do szpitala.
+Niniejszy projekt dotyczy problemu przewidywania ponownego przyjęcia do placówki opieki zdrowotnej (rehospitalizacji). Zbiór danych wykorzystany w projekcie zawiera szereg kolumn zawierających różne informacje o stanie pacjentów i dokumentacji medycznej. W rubryce „readmitted” znajduje się informacja, czy pacjent został ponownie przyjęty do szpitala w okresie krótszym niż 30 dni, po więcej niż 30 dniach lub nie został ponownie przyjęty do szpitala.
 
 Celem projektu jest stworzenie modelu, który na podstawie danych pacjenta będzie skutecznie przewidywał, czy taka osoba będzie rehospitalizowana w mniej niż 30 dni po opuszczeniu szpitala, więcej niż 30 dni, czy też nie.
 
